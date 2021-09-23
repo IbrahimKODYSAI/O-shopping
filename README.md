@@ -1,2 +1,2 @@
-# Projet Boutique full HTML5 / CSS
+# Projet site E-commerce full HTML5 / CSS
 https://oshopping-netlify.netlify.app
